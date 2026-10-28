@@ -7,7 +7,7 @@ AGENCY = {
     "name": "Al-Trekking Rinjani",
     "tagline": "Local guides. Honest prices. Unforgettable summits.",
     # TODO: replace with your real details
-    "whatsapp": "33695817057",  # international format, digits only (country code, no +, no leading 0, no spaces)
+    "whatsapp": "6285947288079",  # international format, digits only (country code, no +, no leading 0, no spaces)
     "email": "hello@al-trekkingrinjani.com",
     "address": "Senaru, North Lombok, Indonesia",
     "instagram": "https://instagram.com/",

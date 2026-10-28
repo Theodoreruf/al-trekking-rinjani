@@ -24,7 +24,7 @@ python3 -m http.server 8000 --directory site
 
 # 2c. Or build and serve on your local network (phone, tablet, other PC)
 python3 build.py --serve          # port 8000
-python3 build.py --serve 8080     # custom port
+python3 build.py --serve 8005     # custom port
 ```
 
 `--serve` prints two addresses: `http://localhost:PORT` for this computer and `http://<your-LAN-IP>:PORT` for other devices on the same Wi-Fi or router. Open the second one on your phone. If it doesn't load, your firewall may be blocking the port. With ufw, run `sudo ufw allow 8000/tcp`. Stop the server with Ctrl+C.
